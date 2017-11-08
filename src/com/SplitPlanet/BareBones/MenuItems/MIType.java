@@ -1,0 +1,25 @@
+package com.SplitPlanet.BareBones.MenuItems;
+
+public enum MIType
+{
+
+    DEFAUT,
+    BACK,
+    BLANK_TOWER,
+    WATER_TOWER,
+    WATER_TOWER2,
+    POWER_TOWER,
+    POWERLONG_TOWER,
+    POWERMULTI_TOWER,
+    POISON_TOWER,
+    SLOW_TOWER,
+    SELECT_TOWER,
+    PAYMENT_TOWER,
+    START,
+    DISPLAY_POWERLINES,
+    TOWER_INFO,
+    ARROW_TOWER,
+    LEVEL,
+    BACK_TO_MAIN_MENU
+
+}

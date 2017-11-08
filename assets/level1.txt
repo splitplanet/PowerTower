@@ -1,0 +1,26 @@
+x=blank tile
+W=Water tile
+1=road
+
+******************* START_MAP *******************
+xx1xxxxxxxxxxxxxxx
+xx1xxxxxxxxxxxxxxx
+xx1xxxxxxxxxxxxxxx
+xx1xxxxxxxxxxxxxxx
+xx1xxxxxxxxxxxxxxx
+WWWWWWWWWWWWWWWxxx
+xx1xxxxxxxxxxxxxxx
+xx1111111111xxxxxx
+xxxxxxxxxxx1xxxxxx
+xxxxxxxxxxx1xxxxxx
+xxxxxxxxxxx1xxxxxx
+xxxxxxxxxxx1111111
+******************* END_MAP **************
+**                                                                   Note: a minutes is roughly 4000 
+**enemy type / number of enemies/ starting position / end position / timer to start
+******************* START_LEVEL *******************
+BASIC_ENEMY     1  11,11   0,0 10
+BASIC_ENEMY     2   8,11   0,0 10
+BASIC_ENEMY     5    1,1 11,11 10
+BASIC_ENEMY     7   11,0   1,0 10
+******************* END_LEVEL *******************
